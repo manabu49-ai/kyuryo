@@ -14,6 +14,7 @@ h2{font-size:21px;line-height:1.55;font-weight:900;margin:44px 0 14px;
    padding-left:14px;border-left:6px solid var(--coral)}
 p{margin:0 0 20px}
 strong{font-weight:900}
+p a,li a{color:var(--navy-mid);text-decoration:underline;text-underline-offset:3px;word-break:break-all}
 ul{margin:0 0 22px;padding-left:0;list-style:none}
 li{margin:0 0 12px;padding-left:24px;position:relative}
 li::before{content:"";position:absolute;left:4px;top:13px;width:9px;height:9px;
